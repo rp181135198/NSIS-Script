@@ -9,7 +9,7 @@ The best and free way to create an installer of your software/game is using NSIS
 This project will make it easier for you to create a NSIS Script to create installation system of your Software/Game using NSIS.
 
 # How to use
-* Fill all the details of your Software/Project at the starting of Script file "main.nsh".
+* Fill all the details of your Software/Project at the starting of Script file "main.nsi".
 * Add directories and Files to be created (in "install" Section).
 * Add directories and Files to be deleted (in "uninstall" Section).
 * Compile it in NSIS compiler and you are done.
