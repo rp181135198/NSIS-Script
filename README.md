@@ -10,6 +10,7 @@ This project will make it easier for you to create a NSIS Script to create insta
 
 # Features
 * Splash Screen
+* Administrator Privilege
 * Welcome Page
 * Installation Directory Page
 * Start Menu Folder Page
