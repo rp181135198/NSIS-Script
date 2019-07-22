@@ -16,6 +16,7 @@ This project will make it easier for you to create a NSIS Script to create insta
 * Installation Directory Page
 * Start Menu Folder Page
 * Finishing Page
+* Ability to Uninstall itself
 * Confirm before Uninstall
 
 # How to use
