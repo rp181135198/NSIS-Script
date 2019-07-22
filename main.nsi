@@ -21,7 +21,7 @@
   !define DESCRIPTION "This is a test."
   !define DEVELOPER "Ramesh Prasad" #License Holder
   # Files Directory
-  !define FILE_DIR "F:\Programming\NSIS Script\NSIS Installer Script\"
+  !define FILE_DIR "D:\NSIS-Script" #Replace with the full path of install folder
   !define LOGO_ICON_FILE "${FILE_DIR}\logo.ico"
   !define LICENSE_TEXT_FILE "${FILE_DIR}\LICENSE.txt"
   !define SPLASH_IMG_FILE "${FILE_DIR}\splash.bmp"
