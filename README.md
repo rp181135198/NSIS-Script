@@ -12,9 +12,11 @@ This project will make it easier for you to create a NSIS Script to create insta
 * Splash Screen
 * Administrator Privilege
 * Welcome Page
+* License Page
 * Installation Directory Page
 * Start Menu Folder Page
 * Finishing Page
+* Confirm before Uninstall
 
 # How to use
 * Fill all the details of your Software/Project at the starting of Script file "main.nsi".
